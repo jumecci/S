@@ -1,0 +1,30 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://1mate.io/wp-content/uploads/2022/03/personaje.jpg",
+        "url_png_logo": "https://1mate.io/wp-content/uploads/2022/03/logo.png",
+        "location": "Patagonia, Argentina",
+        "social": {
+            "twitter_handle": "@1mate_io",
+            "telegram_handle": "adapools_ops",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "https://discord.gg/zTCmeMXC",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "1Mate",
+            "addr": "Street, Number",
+            "city": "Argentina",
+            "country": "Argentina",
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
+        },
+        "about": {
+            "me": "1Mate working to improve the Cardano network",
+            "server": "Multiple Relay Nodes both bare metal and virtual machines",
+            "company": "1Mate"
+        }
+    }
+}
