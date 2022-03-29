@@ -1,12 +1,12 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://1mate.io/wp-content/uploads/2022/03/personaje.jpg",
+        "url_png_icon_64x64": "https://1mate.io/wp-content/uploads/2022/03/mate.png",
         "url_png_logo": "https://1mate.io/wp-content/uploads/2022/03/logo.png",
         "location": "Patagonia, Argentina",
         "social": {
             "twitter_handle": "@1mate_io",
-            "telegram_handle": "adapools_ops",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -14,17 +14,17 @@
             "github_handle": ""
         },
         "company": {
-            "name": "1Mate",
-            "addr": "Street, Number",
-            "city": "Argentina",
+            "name": "1Mate Staking Pool",
+            "addr": "",
+            "city": "Patagonia",
             "country": "Argentina",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "1Mate working to improve the Cardano network",
-            "server": "Multiple Relay Nodes both bare metal and virtual machines",
-            "company": "1Mate"
+            "me": "1Mate is a representation of how our team of collaborators is made: simple guys, like you, getting involved and committed to embrace this new world and this change of paradigm. That’s why one of our projects is to help give security, support and decentralization to the Cardano Network is to build and maintain a Staking Pool",
+            "server": "At first, we are operating using Virtual Machines with a total of 3 Relay Nodes and 1 Block Producer Node, and we’re planning to deploy for the end of 2022 a multiple Relay Nodes in bare metal located across Argentina.",
+            "company": "We are so overwhelmed about the potential surrounding the Cardano environment that we´re dedicating almost our entire work time to help develop new projects and collaborations in the network."
         }
     }
 }
