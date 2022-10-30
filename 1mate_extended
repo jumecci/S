@@ -1,4 +1,5 @@
 {
+    "verification":"7918a9a18c02eea238",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://1mate.io/wp-content/uploads/2022/03/personaje.jpg",
