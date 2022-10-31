@@ -1,5 +1,4 @@
 {
-    "verification":"7918a9a18c02eea238"
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/jumecci/S/9f7a00a399cb1cfa671c6c42a82bb0e39210f95b/1mateicon.png",
